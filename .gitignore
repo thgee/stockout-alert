@@ -1,0 +1,17 @@
+.claude/
+CLAUDE.md
+
+과제원본자료/
+personal-docs/
+
+# 실행 산출물과 로컬 환경
+.env
+.venv/
+output/
+state/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# 브라우저 확인 도구가 남기는 스크린샷·로그
+.playwright-mcp/
